@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AppVeyorToNuGetSample</id>
+    <version>$version$</version>
+    <title>AppVeyorToNuGetSample</title>
+    <authors>Mandro</authors>
+    <owners>Mandro</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample for AppVeyor publishing demo.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags></tags>
+  </metadata>
+</package>
